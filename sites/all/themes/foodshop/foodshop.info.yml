@@ -1,0 +1,10 @@
+name: Foodshop
+type: theme
+description: 'A cuddly theme that offers extra fluffiness.'
+core: 8.x
+base theme: classy
+regions:
+  header: Header
+  content: Content
+  sidebar_first: 'Sidebar first'
+  footer: Footer
